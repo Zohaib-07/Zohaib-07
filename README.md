@@ -1,7 +1,4 @@
 
-Memory updated
-Here’s a refined version for your GitHub profile:
-
 👋 Hi, I'm Zohaib!
 
 🔍 Interests:
@@ -9,9 +6,11 @@ Here’s a refined version for your GitHub profile:
 Artificial Intelligence
 Machine Learning
 Data Science
+
 🌱 Currently Learning:
 
 Advanced Machine Learning Tools and Techniques
+
 💡 Looking to Collaborate On:
 
 AI Projects
